@@ -1,3 +1,3 @@
 **AI-Powered Recipe Intelligence System**
-Developed an NLP-driven ingredient parser and smart dish recommendation engine.
-Designed the system to handle large recipe datasets, delivering personalized suggestions, improving user engagement, and demonstrating practical AI/ML integration.
+Integrated Mistral AI API to experiment with recipe and ingredient-based responses.
+Focused on consuming, parsing, and evaluating AI-generated outputs to explore smart dish suggestion workflows and practical AI integration.
